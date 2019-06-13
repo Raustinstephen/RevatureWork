@@ -1,0 +1,27 @@
+#:Username1:Joint2:passhash3:Approved4:Denied5:InitDeposit6:FullName7
+1:Austin:true:673155:true:false:25:Austin Stephen
+2:James:false:-900485:false:false:25:James Donlevy
+3:Melissa:true:787578:true:false:25:Melissa Van Ryn
+4:Max:true:-286478:true:false:25:Max Koopman
+5:Richard:false:-6908:false:false:25:Richard Stephen
+6:MadMax:true:-267331:false:true:25:Charlize Theron
+7:feral:false:802099:false:true:25:Tarzan
+8:feral2:false:980811:false:true:25:Mowgli
+9:Panama:false:705196:false:true:25:David Lee Roth
+10:jump:false:162212:true:false:25:Eddie Van Halen
+11:Matt:false:683934:true:false:25:Matt Knighten
+12:Revature:false:606104:true:false:55:Code Likeaboss
+13:JavaJoe:false:-215402:true:false:50:Joe Judan
+26:Tester:false:-537218:false:true:2500:Test Testeroni
+27:Tester2:true:-537218:false:true:2500:no thanks
+30:Tester3:true:-537218:false:true:5000:Test Test
+31:Jacksonville:false:-859240:true:false:1995:DUUUU UUUVALLLLL
+33:Microsoft:true:949604:true:false:5000:Bill Gates
+34:dssaasd:false:566809:false:true:25000:dssa asda
+35:PostMalone:false:-212518:true:false:2500:Post Malone
+38:Pencil:false:677684:true:false:25:Pencil pencil
+40:IdontCare:false:-820866:false:true:25:IDont Care
+41:Testing3:true:678117:false:false:25:testing 3
+42:JohnDoe:true:-539654:true:false:100000:Johnathan Doberman
+
+45:nullname:false:-907839:true:false:100:nullname nullname

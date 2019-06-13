@@ -1,0 +1,18 @@
+Customer#:AccountBalance1:Joint2:FullName3
+0:DUMMY:false:DUMMY ACCOUNT
+1:76405:true:Austin Stephen
+2:230000:false:James Donlevy
+11:25:false:Matt Knighten
+4:0:false:0:CANCELLEDNUM4
+
+13:12970:true:Joe Judan
+10:25:false:Eddie Van Halen
+12:55:false:Code Likeaboss
+31:2495:false:DUUUU UUUVALLLLL
+33:5000:true:Bill Gates
+35:2500:false:Post Malone
+38:25:false:Pencil pencil
+
+42:100000:true:Johnathan Doberman
+
+45:100:false:nullname nullname
